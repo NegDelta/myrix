@@ -1,0 +1,2 @@
+# myrix
+Fantasy decimal architecture
